@@ -1,0 +1,34 @@
+.success{
+    border:solid 1px limegreen;
+}
+.error{
+    border:solid 1px red;
+}
+.main{
+    text-align: center;
+    margin:5em 10em;
+    background: #b0daff;
+}
+form{
+    padding:2em;
+}
+input{
+    padding:1em;
+    margin:1em;
+    width:80%;
+}
+#sub,#res{
+    width:30%;
+    border:none;
+}
+#sub{
+    background:#2ed30f;
+}
+#res{
+    background: #d36055;
+}
+.error_text{
+    color:red;
+    text-align: left;
+    font-size: 12px;
+}

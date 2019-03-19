@@ -1,0 +1,27 @@
+#popup{
+    display:none;
+    position: fixed;
+    top: 5em;
+    left: 70%;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+    text-align:center;
+    padding:1em;
+    background: rgba(255,255,255,0.5);
+}
+body{
+    background: #a3a299;
+}
+.white-block {
+    margin-top: 1em;
+    background: white;
+}
+.header{
+    color: #7e7d7c;
+    background:rgba(255,255,255,0.5);
+}
+.hidden{
+    display:none;
+}
+.show{
+    display:block;
+}
